@@ -1,5 +1,7 @@
-# Intel_Unnati_Project_TeamTRON 
+# Intel_Unnati_Project_TeamTRON
+
 ### under development
+
 A project created as part of Intel UNNATI Industrial Training Project. The topic of our project was "Road Object Detection with Deep Learning".
 
 1. Clone / fork this project
