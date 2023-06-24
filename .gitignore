@@ -1,3 +1,4 @@
 IDD_Detection/Annotations
 IDD_Detection/JPEGImages
-datasetPreprocessing.py
+modified_dataset/images
+modified_dataset/labels
