@@ -1,1 +1,3 @@
-IDD_Detection
+IDD_Detection/Annotations
+IDD_Detection/JPEGImages
+datasetPreprocessing.py
