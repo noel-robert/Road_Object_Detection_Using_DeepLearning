@@ -59,6 +59,4 @@ This project was created as part of Intel UNNATI Industrial Training Project. Th
 
 <br>
 
-<p>Results of training operation will be placed in results folder in main directory of the 
-
-repository for easier review.
+<p>Results of training operation will be placed in results folder in main directory of the repository for easier review.
