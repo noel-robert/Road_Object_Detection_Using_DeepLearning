@@ -2,3 +2,6 @@ IDD_Detection/Annotations
 IDD_Detection/JPEGImages
 modified_dataset/images
 modified_dataset/labels
+yolov5-env
+yolov5
+idd-detection.tar.gz
