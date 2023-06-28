@@ -63,6 +63,6 @@ This project was created as part of Intel UNNATI Industrial Training Project. Th
 
 <br><br>
 Collaborators: <br>
-&nbsp;@Josh-Alex <br>
-&nbsp;@noel-robert <br>
-&nbsp;@nubifathima <br>
+&nbsp;&nbsp; [@Josh-Alex](https://github.com/JoshAlex12) <br>
+&nbsp;&nbsp; [@noel-robert](https://github.com/noel-robert) <br>
+&nbsp;&nbsp; [@nubifathima](https://github.com/nubifathima) <br>
