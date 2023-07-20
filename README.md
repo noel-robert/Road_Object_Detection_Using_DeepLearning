@@ -16,18 +16,21 @@ This project was created as part of Intel UNNATI Industrial Training Project. Th
 
 5. In your preferred code editor, navigate to the cloned directory and run the following command in the terminal:  `python datasetPreprocessing.py`. This will create a new folder ***modified_dataset*** which is where dataset is stored in the proper format. This process may take around *15 minutes*, depending on your system configuration.
 
-6. Download CUDA from ??. Optionally, cuDDN can be obtained from ??. 
+6. Download ([CUDA Toolkit 12.2 Downloads | NVIDIA Developer](https://developer.nvidia.com/cuda-downloads)). Optionally, [CUDA Deep Neural Network (cuDNN) | NVIDIA Developer](https://developer.nvidia.com/cudnn), but yon need an NVIDIA developer account for this.
 
 7. Download and install [PyTorch](https://pytorch.org/get-started/locally/) depending on your system configuration.
 
-8. To download YOLOv8, run the following command `pip install ultralytics`.
-
-9. 
+8. To download YOLOv8, first create a folder named ***model***, navigate into it and do the following: 
    
+   1. Clone the [Ultralytics GitHub repository](https://github.com/ultralytics/ultralytics) using the command `git clone https://github.com/ultralytics/ultralytics`.
+   
+   2. Navigate to the ***ultralytics*** folder using `cd ultralytics`, then install package in editable mode using `pip install -e .`.
 
-10. 
-    
-    Collaborators: <br>
-    &nbsp;&nbsp; [@Josh-Alex](https://github.com/JoshAlex12) <br>
-    &nbsp;&nbsp; [@noel-robert](https://github.com/noel-robert) <br>
-    &nbsp;&nbsp; [@nubifathima](https://github.com/nubifathima) <br>
+9. *incomplete*
+
+
+
+Collaborators: <br>
+&nbsp;&nbsp; [@Josh-Alex](https://github.com/JoshAlex12) <br>
+&nbsp;&nbsp; [@noel-robert](https://github.com/noel-robert) <br>
+&nbsp;&nbsp; [@nubifathima](https://github.com/nubifathima) <br>
