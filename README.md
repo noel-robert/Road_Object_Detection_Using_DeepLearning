@@ -20,8 +20,14 @@ This project was created as part of Intel UNNATI Industrial Training Project. Th
 
 7. Download and install [PyTorch](https://pytorch.org/get-started/locally/) depending on your system configuration.
 
-8. To download YOLOv8, run the following command 
-   Collaborators: <br>
-   &nbsp;&nbsp; [@Josh-Alex](https://github.com/JoshAlex12) <br>
-   &nbsp;&nbsp; [@noel-robert](https://github.com/noel-robert) <br>
-   &nbsp;&nbsp; [@nubifathima](https://github.com/nubifathima) <br>
+8. To download YOLOv8, run the following command `pip install ultralytics`.
+
+9. 
+   
+
+10. 
+    
+    Collaborators: <br>
+    &nbsp;&nbsp; [@Josh-Alex](https://github.com/JoshAlex12) <br>
+    &nbsp;&nbsp; [@noel-robert](https://github.com/noel-robert) <br>
+    &nbsp;&nbsp; [@nubifathima](https://github.com/nubifathima) <br>
