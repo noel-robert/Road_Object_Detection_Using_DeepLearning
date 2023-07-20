@@ -2,7 +2,7 @@
 
 This project was created as part of Intel UNNATI Industrial Training Project. The topic of our project was "Road Object Detection with Deep Learning". <br><p>Our aim was to develop a model that could identify objects specifically in Indian roads. This is because roads in India may be completely different from other countries thus their datasets will not be of much use here. <br>
 
-<p> Procedure to train the model are as follows - 
+<p> Procedure to train the model are as follows -
 
 1. Clone | fork this project.
 
