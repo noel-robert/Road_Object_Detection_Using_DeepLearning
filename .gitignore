@@ -1,5 +1,5 @@
 data/IDD_Detection/Annotations
 data/IDD_Detection/JPEGImages
-modified_dataset/images
-modified_dataset/labels
+data/modified_dataset/images
+data/modified_dataset/labels
 yolo-virtualenv
