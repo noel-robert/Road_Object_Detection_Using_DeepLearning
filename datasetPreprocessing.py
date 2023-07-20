@@ -106,15 +106,15 @@ def convert_dataset(xml_path_files, idd_dataset, modified_dataset):
 
 def main():
     current_directory = os.path.dirname(os.path.abspath(__file__))
-    root_directory = os.path.dirname(current_directory) # /TeamTRON_MarBaseliosCollegeOfEngineeringAndTechnology_RoadObjectDetectionWithDeepLearning    
+    # root_directory = os.path.dirname(current_directory)
     
     xml_path_files = ['train.txt', 'val.txt', 'test.txt']     # test.txt should be at last compulsorily
 
     start_time = time.time()
     
     # create main directory to store modified dataset
-    idd_dataset = Path(os.path.join(root_directory, 'data', 'IDD_Detection'))
-    modified_dataset = Path(os.path.join(root_directory, 'data', 'modified_dataset'))
+    idd_dataset = Path(os.path.join(current_directory, 'data', 'IDD_Detection'))
+    modified_dataset = Path(os.path.join(current_directory, 'data', 'modified_dataset'))
     if modified_dataset.exists() and modified_dataset.is_dir():
         shutil.rmtree(modified_dataset)
     modified_dataset.mkdir(parents=True, exist_ok=True)
