@@ -1,9 +1,0 @@
-# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
-path: ../../../../data/modified_dataset  # dataset root dir
-train: images/train  # train images (relative to 'path') 128 images
-val: images/val  # val images (relative to 'path') 128 images
-test: images/test # test images (optional)
-
-nc: 15  # number of classes
-# Classes (80 COCO classes)
-names: ['car', 'bus', 'autorickshaw', 'vehicle fallback', 'truck', 'motorcycle', 'rider', 'person', 'bicycle', 'animal', 'traffic sign', 'train', 'trailer', 'traffic light', 'caravan']
